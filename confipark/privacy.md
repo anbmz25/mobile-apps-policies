@@ -6,7 +6,7 @@ title: Privacy Policy – ConfiPark
 
 # Privacy Policy – ConfiPark
 
-**Last updated:** 9 February 2025
+**Last updated:** 9 February 2026
 
 ConfiPark ("the app") is a mobile application that helps you save your parking location using a photo, optional GPS, and an optional note. This policy explains how the app handles your information.
 
